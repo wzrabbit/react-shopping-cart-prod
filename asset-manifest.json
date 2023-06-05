@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/react-shopping-cart-prod/static/js/main.6aab5b2d.js",
+    "static/media/background.jpg": "/react-shopping-cart-prod/static/media/background.fbdc992775d0c0221c95.jpg",
+    "static/media/parcel.png": "/react-shopping-cart-prod/static/media/parcel.93619a0d1826b8837bc4.png",
+    "static/media/empty.png": "/react-shopping-cart-prod/static/media/empty.e47939f176976246cc84.png",
+    "static/media/logo.png": "/react-shopping-cart-prod/static/media/logo.6683505b361e5e574f70.png",
+    "index.html": "/react-shopping-cart-prod/index.html",
+    "main.6aab5b2d.js.map": "/react-shopping-cart-prod/static/js/main.6aab5b2d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6aab5b2d.js"
+  ]
+}
